@@ -88,7 +88,6 @@ cp 1_file.txt ../2_file.txt
 # r : 모든 디렉토리내, n : 라인수 출력, i : 대/소 구분 없이
 grep -rni "hello" .
 
-
 # find : 이름으로 파일 또는 디렉토리 찾기 
 find . -name "*.txt"
 find . -type f #(f옵션 파일 찾음)

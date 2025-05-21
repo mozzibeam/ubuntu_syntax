@@ -2,6 +2,7 @@
 touch myscript.sh
 nano myscript.sh
 echo "hello world"
+# 실행권한 필요
 chmod u+x
 # 스크립트 실행
 ./myscript.sh
